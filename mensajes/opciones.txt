@@ -1,0 +1,7 @@
+¿Cómo podemos ayudarte?
+Escribe:
+
+*1* - Para ver lugares turísticos
+*2* - Para hacer consultas
+
+*0* - Para terminar conversación

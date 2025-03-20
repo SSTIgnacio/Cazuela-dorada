@@ -1,2 +1,5 @@
-# Cazuela-dorada
-Chat de asistencia impulsado con inteligencia artificial
+Ejecutar estos comando en la consola
+
+npm install
+
+npm start

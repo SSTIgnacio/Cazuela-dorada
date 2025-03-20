@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50672903912@s.whatsapp.net',
+    fromMe: false,
+    id: '4DECAD9AB97598B78A51B3455764DB01',
+    participant: undefined
+  },
+  messageTimestamp: 1727210100,
+  pushName: 'Yicalco@gmail.com',
+  broadcast: false,
+  message: Message {
+    conversation: 'H',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'H',
+  from: '50672903912'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2915d956-df0e-4b14-99c2-aaa038d4ed2a',
+  keyword: 'key_b84469ae-ece7-458d-8979-7940f3cd41f6',
+  answer: 'Te damos la bienvenida *La Cazuela Dorada*!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0cd68e392bde13df16a56f7fdeeea49f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db8faaef-05b6-4283-af5e-1b57831c2999',
+  keyword: 'ans_2915d956-df0e-4b14-99c2-aaa038d4ed2a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0e98fb46ec093371a5067b14d06e746a'
+}
